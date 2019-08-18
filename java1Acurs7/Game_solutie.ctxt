@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Game_solutie
+comment1.params=
+comment1.target=Game_solutie()
+comment2.params=
+comment2.target=Game_solutie\ getInstance()
+comment3.params=guess
+comment3.target=boolean\ lessThan(int)
+comment4.params=guess
+comment4.target=boolean\ greaterThan(int)
+comment5.params=guess
+comment5.target=boolean\ isEqual(int)
+comment6.params=
+comment6.target=int\ getScore()
+comment7.params=
+comment7.target=void\ restart()
+comment8.params=tries
+comment8.target=void\ decrementTries(int)
+numComments=9
